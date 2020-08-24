@@ -1,6 +1,5 @@
 
-# Welcome to my Github
-## Hello World ! :wave:
+## Hey there, I'm Shivam :wave:
 
 I'm **[Shivam Pathak](https://www.linkedin.com/in/shivam-pathak-351741154/)**, a human being who is passionate about simplifying things through technology.
 
