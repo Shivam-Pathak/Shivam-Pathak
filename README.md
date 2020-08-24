@@ -14,8 +14,7 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Shi
 
 **Have a look on my [portfolio](https://Shivam-Pathak.github.io/) .** 
 
-[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true)](https://github.com/Shivam-Pathak/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact)](https://github.com/Shivam-Pathak/)
+[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true)](https://github.com/Shivam-Pathak/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact)](https://github.com/Shivam-Pathak/)
 
 
 ### :gear: My skills include:
