@@ -1,7 +1,7 @@
 
-## Hey there, I'm Shivam :wave:
+## Hey there, I'm **[Shivam Pathak](https://www.linkedin.com/in/shivam-pathak-351741154/)** :wave:
 
-I'm **[Shivam Pathak](https://www.linkedin.com/in/shivam-pathak-351741154/)**, a human being who is passionate about simplifying things through technology.
+I'm passionate about simplifying things through technology.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@ShivamPathak&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shivam-pathak-351741154)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@ShivamPathak&logo=facebook&style=flat&color=blue)](https://www.facebook.com/shivampathak848/)
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ### :handshake: Always happy to help!
 
 
-### :hugs: Thank You!
 
+### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/Shivam-Pathak)! :v: 
 
 
