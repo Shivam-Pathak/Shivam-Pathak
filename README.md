@@ -13,6 +13,17 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Shi
 
 **Have a look on my [portfolio](https://Shivam-Pathak.github.io/) .** 
 
+<a href="https://github.com/Shivam-Pathak/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&hide=issues&show_icons=true" alt="Shivam's github stats" />
+</a>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
+
 ### :gear: My skills include:
 
 - **Languages**: `C++`,`C`, `Python`, `HTML / CSS / JS`
