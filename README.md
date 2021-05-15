@@ -1,9 +1,9 @@
 
-## Hey there, I'm **[Shivam Pathak](https://www.linkedin.com/in/shivam-pathak-351741154/)** :wave:
+## Hey there, I'm **[Shivam Pathak](https://www.linkedin.com/in/shivam-r-pathak/)** :wave:
 
 I'm passionate about simplifying things through technology.
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@ShivamPathak&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shivam-pathak-351741154)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@ShivamPathak&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shivam-r-pathak/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@ShivamPathak&logo=facebook&style=flat&color=blue)](https://www.facebook.com/shivampathak848/)
  [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@ShivamPathak&logo=Instagram&style=flat&color=blue)](https://www.instagram.com/_.shiivam._/)
  
@@ -20,24 +20,25 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Shi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact" alt="Shivam's Top Languages stats"  />
 </a>
 
+
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `Python`, `HTML / CSS / JS`
+- **Languages**: `C++`,`C`, `java`
 
-- **Databases**: `MySQL` 
+- **Web Technologies**: `Html`,`Css`, `js`,`PHP`,`Django`
 
-- **Competitive Programming**
-    
-- **Algorithms** , **Data-structures**
+- **Database Technologies**: `MySQL` 
 
-- **Operating System**: `Linux`, `Windows`
+- **CS Core**: `Data Structures`,`Algorithms`, `DBMS` , `OS` , `OOP`
+
+- **Competitive Programming** : [Hackerearth](https://www.hackerearth.com/@shivampathak848) , [Codechef](https://www.codechef.com/users/shad0ww) , [Hackerrank](https://www.hackerrank.com/shivampathak848) , [Geeksforgeeks](https://auth.geeksforgeeks.org/user/shad0w/practice/)
     
 Here are some ideas to get you started:
 
 - 🌱 I’m doing competitive programming regularly.
 - 👯 I’m looking to collaborate on python projects.
 - 🤔 I’m looking for help with jobs/intern.
-- 📫 How to reach me: Connect with me on **[Facebook](https://www.facebook.com/shivampathak848)** / **[Linkedin](https://www.linkedin.com/in/shivam-pathak-351741154/)**  
+- 📫 How to reach me: Connect with me on **[Facebook](https://www.facebook.com/shivampathak848)** / **[Linkedin](https://www.linkedin.com/in/shivam-r-pathak/)**  
 - 💬 Ask me about Algorithms, Data Structure , Python , C++ 
 - 😄 Pronouns: Compititive Programmer | Software Engineer 
 - ⚡ Fun fact: I'm not boring. 😄 
