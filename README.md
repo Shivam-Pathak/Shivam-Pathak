@@ -4,7 +4,6 @@
 I'm passionate about simplifying things through technology.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@ShivamPathak&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shivam-r-pathak/)
- [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@ShivamPathak&logo=facebook&style=flat&color=blue)](https://www.facebook.com/shivampathak848/)
  [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@ShivamPathak&logo=Instagram&style=flat&color=blue)](https://www.instagram.com/_.shiivam._/)
  
  My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m doing competitive programming regularly.
 - 👯 I’m looking to collaborate on python projects.
 - 🤔 I’m looking for help with jobs/intern.
-- 📫 How to reach me: Connect with me on **[Facebook](https://www.facebook.com/shivampathak848)** / **[Linkedin](https://www.linkedin.com/in/shivam-r-pathak/)**  
+- 📫 How to reach me: Connect with me on **[Instagram](https://www.instagram.com/_.shiivam._/)** / **[Linkedin](https://www.linkedin.com/in/shivam-r-pathak/)**  
 - 💬 Ask me about Algorithms, Data Structure , Python , C++ 
 - 😄 Pronouns: Compititive Programmer | Software Engineer 
 - ⚡ Fun fact: I'm not boring. 😄 
