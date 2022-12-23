@@ -15,14 +15,6 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Shi
 | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/Shivam-Pathak/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&hide=issues&show_icons=true" alt="Shivam's github stats" />
-</a>
-<a href="https://github.com/Shivam-Pathak/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact" alt="Shivam's Top Languages stats"  />
-</a>
-
-
 ### :gear: My skills include:
 
 - **Languages**: `C++`,`C`, `java`
