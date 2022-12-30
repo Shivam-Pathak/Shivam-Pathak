@@ -25,6 +25,7 @@ I'm a graduate in Computer Science ðŸŽ“ from Gujarat Technological University ðŸ
 **Have a look on my [portfolio](https://Shivam-Pathak.github.io/) .**
 
 | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### :gear: My skills include:
 
@@ -44,8 +45,9 @@ I'm a graduate in Computer Science ðŸŽ“ from Gujarat Technological University ðŸ
   <summary><b>âš¡ Github Stats</b></summary>
   
   <br />
-    | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
+| <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 </details>
 
 <details>	
