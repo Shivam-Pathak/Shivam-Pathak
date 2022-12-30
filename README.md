@@ -24,7 +24,7 @@ I'm a graduate in Computer Science ðŸŽ“ from Gujarat Technological University ðŸ
 
 **Have a look on my [portfolio](https://Shivam-Pathak.github.io/) .**
 
-| <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivam's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### :gear: My skills include:
