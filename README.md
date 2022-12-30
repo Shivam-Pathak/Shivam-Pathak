@@ -27,15 +27,13 @@ I'm a graduate in Computer Science ðŸŽ“ from Gujarat Technological University ðŸ
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `java`
+- **Languages**: `C++`,`C`, `java`, `Python`
 
-- **Web Technologies**: `Html`,`Css`, `js`,`PHP`,`Django`
+- **Web Technologies**: `javaScript`,`Angular`,`React`,`Html`,`Css`,`TypeScript`
 
-- **Database Technologies**: `MySQL`
+- **Database Technologies**: `MySQL`,`PostgreSQL`
 
-- **CS Core**: `Data Structures`,`Algorithms`, `DBMS` , `OS` , `OOP`
-
-- **Competitive Programming** : [Hackerearth](https://www.hackerearth.com/@shivampathak848) , [Codechef](https://www.codechef.com/users/shad0ww) , [Hackerrank](https://www.hackerrank.com/shivampathak848) , [Geeksforgeeks](https://auth.geeksforgeeks.org/user/shad0w/practice/)
+- **CS Core**: `Data Structures`,`Algorithms`, `DBMS` , `Operating System` , `OOP`
 
 ### Projects and Dev Stuffs:
 
